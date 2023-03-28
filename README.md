@@ -1,2 +1,3 @@
 # prland
-prland testing
+print(prland testing)
+
